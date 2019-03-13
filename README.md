@@ -11,5 +11,4 @@ STCGで利用するBGMなどを追加します。
 | 勇者のくせになまいきだ。1&2 ジャイアント・リサイタル | はまたけし | Genius |
 | TVアニメ『ACCA13区監察課』オリジナルサウンドトラック SMOKE and MIRRORS | 高橋諒 | Genius |
 
-<br>
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

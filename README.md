@@ -13,4 +13,5 @@ STCGで利用するBGMなどを追加します。
 | Shadow and Truth | ONE III NOTES | Genius |
 | LUPIN THE IIIRD 次元大介の墓標 | ジェイムス下地 | Lupan |
 | 戦姫絶唱シンフォギア | 藤田淳平 | ゴーズド |
+
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

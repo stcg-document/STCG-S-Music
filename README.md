@@ -1,4 +1,4 @@
-###### STCG-Music
+﻿###### STCG-Music
 ---
 STCGで利用するBGMなどを追加します。
 現在追加したのは下記のアルバムになります。
@@ -11,5 +11,5 @@ STCGで利用するBGMなどを追加します。
 | 勇者のくせになまいきだ。1&2 ジャイアント・リサイタル | はまたけし | Genius |
 | TVアニメ『ACCA13区監察課』オリジナルサウンドトラック SMOKE and MIRRORS | 高橋諒 | Genius |
 | Shadow and Truth | ONE III NOTES | Genius |
-
+| LUPIN THE IIIRD 次元大介の墓標 | ジェイムス下地 | Lupan |
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

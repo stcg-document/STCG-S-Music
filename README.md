@@ -4,9 +4,12 @@ STCGで利用するBGMなどを追加します。
 現在追加したのは下記のアルバムになります。
 『TVアニメ『ACCA13区監察課』オリジナルサウンドトラック SMOKE and MIRRORS』は容量の関係で保留
 
-- Genius追加曲
-  - Nameless Story
-  - TVアニメーション「たまこまーけっと」オリジナル・サウンドトラック Snappy Music Around of Tamako
+| アルバム名 | アーティスト | 追加者 |
+----|----|---- 
+| Nameless Story | 寺島拓篤 | Genius |
+| TVアニメーション「たまこまーけっと」オリジナル・サウンドトラック Snappy Music Around of Tamako | 片岡知子 & マニュアル・オブ・エラーズ | Genius |
+| 勇者のくせになまいきだ。1&2 ジャイアント・リサイタル | はまたけし | Genius |
+| TVアニメ『ACCA13区監察課』オリジナルサウンドトラック SMOKE and MIRRORS | 高橋諒 | Genius |
 
-
+<br>
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

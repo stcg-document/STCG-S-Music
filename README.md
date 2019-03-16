@@ -17,6 +17,7 @@ STCGで利用するBGMなどを追加します。
 | Unknown Music | 不明 | 不特定多数 |
 | アスラクライン2 バラエティーCD| 田尻光隆 他 | Genius |
 | TVアニメ「博多豚骨ラーメンズ」 オリジナル・サウンドトラック | 中川幸太郎 | Lupan |
+| ファンタシースターオンライン2 オリジナルサウンドトラック Vol. 6  | 堀田英邦 | Genius |
 
 
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

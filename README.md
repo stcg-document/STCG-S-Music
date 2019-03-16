@@ -13,6 +13,7 @@ STCGで利用するBGMなどを追加します。
 | Shadow and Truth | ONE III NOTES | Genius |
 | LUPIN THE IIIRD 次元大介の墓標 | ジェイムス下地 | Lupan |
 | 戦姫絶唱シンフォギア | 藤田淳平 | ゴーズド |
+| beco(騒音のない世界)サウンドトラック | beco(騒音のない世界) | ゴーズド |
 | Unknown Music | 不明 | 不特定多数 |
 
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

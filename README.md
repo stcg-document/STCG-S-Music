@@ -18,6 +18,6 @@ STCGで利用するBGMなどを追加します。
 | アスラクライン2 バラエティーCD| 田尻光隆 他 | Genius |
 | TVアニメ「博多豚骨ラーメンズ」 オリジナル・サウンドトラック | 中川幸太郎 | Lupan |
 | ファンタシースターオンライン2 オリジナルサウンドトラック Vol. 6  | 堀田英邦 | Genius |
-
+| 第3次スーパーロボット大戦Z 時獄篇&天獄篇 オリジナルサウンドトラック | サラマンダー·ファクトリー | Genius |
 
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

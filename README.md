@@ -19,6 +19,9 @@ STCGで利用するBGMなどを追加します。
 | TVアニメ「博多豚骨ラーメンズ」 オリジナル・サウンドトラック | 中川幸太郎 | Lupan |
 | ファンタシースターオンライン2 オリジナルサウンドトラック Vol. 6  | 堀田英邦 | Genius |
 | 第3次スーパーロボット大戦Z 時獄篇&天獄篇 オリジナルサウンドトラック | サラマンダー·ファクトリー | Genius |
-| 無双☆スターズ ORIGINAL SOUNDTRACK CD | Genius |
+| 無双☆スターズ ORIGINAL SOUNDTRACK CD | 増岡郷太 | Genius |
+| Cowboy Bebop OST 1 | Seatbelts;  | Genius |
+| Cowboy Bebop OST 2 | Seatbelts;  | Genius |
+| Cowboy Bebop OST 3 | Seatbelts;  | Genius |
 
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

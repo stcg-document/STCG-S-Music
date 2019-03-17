@@ -23,5 +23,7 @@ STCGで利用するBGMなどを追加します。
 | Cowboy Bebop OST 1 | Seatbelts | Genius |
 | Cowboy Bebop OST 2 | Seatbelts | Genius |
 | Cowboy Bebop OST 3 | Seatbelts | Genius |
+| 遊戯王5D's SOUND DUEL 01 | Wall5 Project／ 蓑部雄崇 | Genius |
+
 
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

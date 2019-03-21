@@ -25,5 +25,9 @@ STCGで利用するBGMなどを追加します。
 | Cowboy Bebop OST 3 | Seatbelts | Genius |
 | 遊戯王5D's SOUND DUEL 01 | Wall5 Project／ 蓑部雄崇 | Genius |
 | 劇場版「名探偵コナン ゼロの執行人」オリジナルサウンドトラック | 大野克夫 | Genius |
+| ルパン三世 PART V オリジナル・サウンドトラック ~ SI BON ! SI BON ! | Yuji Ohno & Lupintic Six;  | Genius |
+
+
+
 
 ![demo](https://img.gifmagazine.net/gifmagazine/images/3003682/original.gif)

@@ -26,6 +26,8 @@ STCGで利用するBGMなどを追加します。
 | 遊戯王5D's SOUND DUEL 01 | Wall5 Project／ 蓑部雄崇 | Genius |
 | 劇場版「名探偵コナン ゼロの執行人」オリジナルサウンドトラック | 大野克夫 | Genius |
 | ルパン三世 PART V オリジナル・サウンドトラック ~ SI BON ! SI BON ! | Yuji Ohno & Lupintic Six;  | Genius |
+| 遊戯王デュエルモンスターズ SOUND DUEL 3 | 光宗 信吉  | Genius |
+
 
 
 

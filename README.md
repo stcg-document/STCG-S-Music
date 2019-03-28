@@ -27,7 +27,7 @@ STCGで利用するBGMなどを追加します。
 | 劇場版「名探偵コナン ゼロの執行人」オリジナルサウンドトラック | 大野克夫 | Genius |
 | ルパン三世 PART V オリジナル・サウンドトラック ~ SI BON ! SI BON ! | Yuji Ohno & Lupintic Six;  | Genius |
 | 遊戯王デュエルモンスターズ SOUND DUEL 3 | 光宗 信吉  | Genius |
-
+| TVアニメ「ガンダムビルドファイターズ」オリジナルサウンドトラック | Yuly  | Genius |
 
 
 

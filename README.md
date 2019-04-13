@@ -28,7 +28,7 @@ STCGで利用するBGMなどを追加します。
 | ルパン三世 PART V オリジナル・サウンドトラック ~ SI BON ! SI BON ! | Yuji Ohno & Lupintic Six;  | Genius |
 | 遊戯王デュエルモンスターズ SOUND DUEL 3 | 光宗 信吉  | Genius |
 | TVアニメ「ガンダムビルドファイターズ」オリジナルサウンドトラック | Yuly  | Genius |
-
+| ルパン三世 PART V オリジナル・サウンドトラック ~ FRENCH | Yuji Ohno & Lupintic Six with Friends  | Lupan |
 
 
 
